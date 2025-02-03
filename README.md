@@ -1,7 +1,5 @@
 ## Hi👋 see my [blogs](https://www.zhihu.com/people/bu-meng-cheng-kong-46/posts)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=ZhangAilan&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ###
 
 <div align="center">
